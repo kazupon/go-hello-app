@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"mymath"
+	"github.com/kazupon/go-math"
 )
 
 func main() {
